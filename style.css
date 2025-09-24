@@ -251,6 +251,10 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
   top: 0;
 }
 
+p, li {
+  margin-bottom: 0.2rem; 
+}
+
 .contact-info-list {
   list-style-type: none;
   padding: 0;
